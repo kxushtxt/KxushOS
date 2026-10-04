@@ -35,7 +35,9 @@
 
 Чтобы **отключить Windows Defender** и **удалить Edge**, нужны **дополнительные твики**, которые будут выложены на **Google Drive**:
 
-📎 **Ссылка на Google Drive:** `<СКОРО / COMING SOON>`
+📎 **Ссылка на Google Drive:** `https://drive.google.com/file/d/1_nfshYgy7PgGXRfYZj11-SbT-gxFU-o0/view?usp=sharing`
+
+Авторы Твиков: Remove Edge - https://github.com/ShadowWhisperer ; Disable Windows Defender - https://github.com/ionuttbara
 
 ## 📝 Список изменений
 
@@ -151,7 +153,9 @@ In this answer file **Windows Defender is NOT disabled and Microsoft Edge is NOT
 
 To **disable Windows Defender** and **remove Edge**, you need **additional tweaks**, which will be uploaded to **Google Drive**:
 
-📎 **Google Drive link:** `<СКОРО / COMING SOON>`
+📎 **Google Drive link:** `https://drive.google.com/file/d/1_nfshYgy7PgGXRfYZj11-SbT-gxFU-o0/view?usp=drive_link`
+
+Tweaks Dev: Remove Edge - https://github.com/ShadowWhisperer ; Disable Windows Defender - https://github.com/ionuttbara
 
 ## 📝 Changelog
 
